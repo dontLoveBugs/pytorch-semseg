@@ -5,7 +5,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1185075.svg)](https://doi.org/10.5281/zenodo.1185075)
 
 
-
 ## Semantic Segmentation Algorithms Implemented in PyTorch
 
 This repository aims at mirroring popular semantic segmentation architectures in PyTorch. 
@@ -16,6 +15,7 @@ This repository aims at mirroring popular semantic segmentation architectures in
 <img src="https://meetshah1995.github.io/images/blog/ss/ptsemseg.png" width="49%"/>
 </p>
 
+* [Important to Read](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html#sec_datasets)
 
 ### Networks implemented
 
